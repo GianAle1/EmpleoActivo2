@@ -37,14 +37,14 @@ nav a:hover{
     text-decoration: underline;
 }
 
-.productos{
+.trabajadores{
     width: 940px;
     margin: 0 auto;
     padding: 50px;
 }
 
 
-.productos li{
+.trabajadores li{
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -56,28 +56,28 @@ nav a:hover{
     border-radius: 10px;
 }
 
-.productos li:hover{
+.trabajadores li:hover{
     border-color:#c78c19;
 }
 
-.productos li:active{
+.trabajadores li:active{
     border-color:#088c19;
 }
 
-.productos h2{
+.trabajadores h2{
     font-size: 30px;
     font-weight: bold;
 }
 
-.productos li:hover h2{
+.trabajadores li:hover h2{
     font-size: 33px;
 }
 
-.producto-descripcion{
+.trabajadores-descripcion{
     font-size: 18px;
 }
 
-.producto-precio{
+.trabajadores-precio{
     font-size: 20px;
     font-weight: bold;
     margin-top:10px;
